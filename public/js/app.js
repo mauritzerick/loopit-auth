@@ -19691,7 +19691,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "text-3xl text-center" }, [
           _vm._v("Page Not Found "),
           _c("br"),
-          _vm._v("404 ERROR")
+          _vm._v("404 ERROR!")
         ])
       ]
     )
